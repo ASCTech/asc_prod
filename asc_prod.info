@@ -4,7 +4,6 @@ core = 7.x
 package = ASC
 version = 7.x-1.0
 project = asc_prod
-dependencies[] = asc_egg
 dependencies[] = piwik
 dependencies[] = strongarm
 dependencies[] = syslog
